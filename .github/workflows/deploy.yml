@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "zazhi4-deepsider2a-95"
+          project: "zazhi4-deepsider2a-19"
           entrypoint: "main.ts"
           root: ""
           
